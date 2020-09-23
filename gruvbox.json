@@ -1,0 +1,22 @@
+
+{
+    "name" : "Monokai Night",
+    "background" : "#32302F",
+    "foreground" : "#EBDBa6",
+    "black" : "#32302F",
+    "blue" : "#5CAEA8",
+    "cyan" : "#9CC6AF",
+    "green" : "#689D6A",
+    "purple" : "D3869B",
+    "red" : "#E55989",
+    "white" : "#EBDBB2",
+    "yellow" : "#e6db74",
+    "brightBlack" : "#75715e",
+    "brightBlue" : "#66d9ef",
+    "brightCyan" : "#e69f66",
+    "brightGreen" : "#a6e22e",
+    "brightPurple" : "#ae81ff",
+    "brightRed" : "#f92672",
+    "brightWhite" : "#f8f8f2",
+    "brightYellow" : "#e6db74"
+}
